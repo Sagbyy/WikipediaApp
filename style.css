@@ -38,6 +38,9 @@ h1 span {
   border: solid 1px #868686;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
+.search_input:focus {
+  outline: none;
+}
 
 .error_message {
   text-align: center;
